@@ -54,9 +54,6 @@ that disk goes automatically back to the peg that it was on
 Classes:
 Screen
 Peg
-Ring
+Disk
 Game
 Player?
-
-Try with recursive functions after I make it without
-Dictionary or list to store disks
